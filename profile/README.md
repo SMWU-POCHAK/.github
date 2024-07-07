@@ -30,29 +30,19 @@
 ## Stacks
 
 ### Client
+![Apple](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 
-- Swift
-- Alamofire
-- Realm
-- Kingfisher
-- Tabman
-- Google, Apple signup
-- PageBoy
+![Google](https://img.shields.io/badge/google%20signup-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Apple](https://img.shields.io/badge/iOS%20signup-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+
 
 ### Server
 
-> CI/CD
-
-- GitHub Actions
-- AWS CodeDeploy, EC2, S3
-
-> 서비스
-
-- Spring Boot 3.2.1 (Java 17)
-- Spring Data JPA
-- AWS EC2, RDS, Route53
-- Nginx
-- MySQL
-
-
-
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+      
